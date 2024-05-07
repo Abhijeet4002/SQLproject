@@ -19,6 +19,13 @@ Database: MySQL
 - Use the search functionality to find specific students by ID
 - Explore the reports and statistics section to analyze student performance and attendance
 
+## Contribution
+
+This project was developed collaboratively by the following team members:
+Abhijeet Raj
+Abhinav Kumar
+Krishna Kumar
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
