@@ -22,8 +22,8 @@ Database: MySQL
 ## Contribution
 
 This project was developed collaboratively by the following team members:
-Abhijeet Raj
-Abhinav Kumar
+Abhijeet Raj,
+Abhinav Kumar,
 Krishna Kumar
 
 ## License
